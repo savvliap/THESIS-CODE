@@ -1,14 +1,14 @@
 # Description 
 
-In this project I am implementing peumonia are detection in chest X-rays. In particular 
-some classification architectures will be applied to chest radiographs that have
+In this project I am implementing peumonia area detection in chest X-rays. In particular 
+some classification architectures will be applied to chest radiographs that have been
 collected in digital format, to determine whether there is a shift in the
 lung or not. The dataset that has been collected has been tagged by health experts 
-and the goal is to find a model that will predictions that are as close as possible to
-these predictions. More specifically, ϑthe Unet, DoubleUnet, Res-Unet, Inception-Unet, Dense-Unet 
-architectures will be considered and compared in terms of the success of not only correctly 
+and the goal is to find a model that will make predictions that are as close as possible to
+these predictions. More specifically, the Unet, DoubleUnet, Res-Unet, Inception-Unet, Dense-Unet 
+architectures will be examined and compared in terms of the success of not only correctly 
 classifying images, but also highlighting problem areas, where they exist. Besides, 
-I will consider techniques through which it would be possible to improve the result, such as
+I will examine techniques through which it would be possible to improve the result, such as
 techniques for managing the dataset, but without any substantial intervention in it.
 
 # Tools Used: 
