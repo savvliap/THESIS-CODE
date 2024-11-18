@@ -16,7 +16,7 @@ techniques for managing the dataset, but without any substantial intervention in
 - python
 - tensorflow
 
-# equipment used
+# Equipment used
 - CPU:16 x intel Core i7-7820X @ 3.60 GHz
 - GPU:
   - NVIDIA Corporation GP104 [GeForce GTX 1070]
